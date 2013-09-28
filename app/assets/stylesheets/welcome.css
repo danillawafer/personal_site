@@ -22,6 +22,13 @@
 	margin: 0 20px;
 }
 
+#link_nav a {
+	margin-right: 3em;
+	position: relative;
+	left: 10em;
+	bottom: 1.5em;
+}
+
 
 #images {
 	width: 40em;
