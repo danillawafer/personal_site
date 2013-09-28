@@ -1,3 +1,28 @@
+#welcome {
+	width: 40em;
+	height: 21em;
+	margin: 2em auto;
+	background-color: white;
+	opacity: 0.6;
+	border-radius: 2em;
+}
+
+#welcome img {
+	height: 9em;
+	width: 10em;
+	float: right;
+	margin: 0 1em 1em 1em;
+}
+
+#welcome h1 {
+	margin: 0 20px;
+}
+
+#welcome h4 {
+	margin: 0 20px;
+}
+
+
 #images {
 	width: 40em;
 	height: 30em;
