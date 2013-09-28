@@ -1,5 +1,31 @@
 #images {
-	width: 30em;
-	height: 20em;
+	width: 40em;
+	height: 30em;
 	margin: 0 auto;
+}
+
+body {
+	background-image: url('background.jpg');
+}
+
+.orbit-bullets li {
+	display: none;
+}
+
+#images a.orbit-prev {
+	background-color: transparent;
+	color: gray;
+}
+
+#images a.orbit-next {
+	background-color: transparent;
+	color: gray;
+}
+
+#images a.orbit-prev span {
+	border-right-color: gray;
+}
+
+#images a.orbit-next span {
+	border-left-color: gray;
 }
