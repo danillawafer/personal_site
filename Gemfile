@@ -10,7 +10,6 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'compass-rails'
 gem 'zurb-foundation', '4.0.0'
-gem 'foundation-social-web-icons-rails', git: "git://github.com/jclusso/foundation-social-web-icons-rails.git"
 
 gem 'jquery-rails'
 
