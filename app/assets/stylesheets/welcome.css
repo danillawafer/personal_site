@@ -1,6 +1,10 @@
+body {
+	background-image: url('background.jpg');
+}
+
 #welcome {
 	width: 40em;
-	height: 21em;
+	height: 23em;
 	margin: 2em auto;
 	background-color: white;
 	opacity: 0.75;
@@ -36,8 +40,10 @@
 	margin: 0 auto;
 }
 
-body {
-	background-image: url('background.jpg');
+#email {
+	text-align: center;
+	position: relative;
+	bottom: 1em;
 }
 
 .orbit-bullets li {
