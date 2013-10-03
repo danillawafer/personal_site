@@ -31,3 +31,6 @@ end
 group :production do
 	gem 'rails_12factor'
 end
+
+#feature
+gem 'skrollr-rails'
